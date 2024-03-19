@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inconsolata } from "next/font/google";
 import "./globals.css";
 
-export const inconsolata = Inconsolata({ subsets: ["latin"] });
+const inconsolata = Inconsolata({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Erf & Mary: The Adventures",

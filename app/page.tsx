@@ -35,7 +35,7 @@ export default function Home() {
               {`Let's Get Started!`}
             </Blockquote>
             <button className="absolute top-1/3 bg-[#813F3D] text-white py-2 px-6 rounded-lg cursor-pointer text-3xl">
-              <Link href={"/dashboard"}> {`Go to Dashboard`}</Link>
+              <Link href={"/dashboard"}>{`Go to Dashboard`}</Link>
             </button>
 
             <Image
