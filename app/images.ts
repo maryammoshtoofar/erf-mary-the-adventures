@@ -13,6 +13,15 @@ export const cookbookImages = [
   { src: "/img/cookbook/12.jpg" },
   { src: "/img/cookbook/13.jpg" },
   { src: "/img/cookbook/14.jpg" },
+  { src: "/img/cookbook/15.jpg" },
+  //   { src: "/img/cookbook/16.jpg" },
+  { src: "/img/cookbook/17.jpg" },
+  { src: "/img/cookbook/18.jpg" },
+  { src: "/img/cookbook/19.jpg" },
+  { src: "/img/cookbook/20.jpg" },
+  { src: "/img/cookbook/21.jpg" },
+  { src: "/img/cookbook/22.jpg" },
+  { src: "/img/cookbook/23.jpg" },
 ];
 
 export const allCookbookImages = [
@@ -30,4 +39,13 @@ export const allCookbookImages = [
   { src: "/img/cookbook/12.jpg" },
   { src: "/img/cookbook/13.jpg" },
   { src: "/img/cookbook/14.jpg" },
+  { src: "/img/cookbook/15.jpg" },
+  { src: "/img/cookbook/16.jpg" },
+  { src: "/img/cookbook/17.jpg" },
+  { src: "/img/cookbook/18.jpg" },
+  { src: "/img/cookbook/19.jpg" },
+  { src: "/img/cookbook/20.jpg" },
+  { src: "/img/cookbook/21.jpg" },
+  { src: "/img/cookbook/22.jpg" },
+  { src: "/img/cookbook/23.jpg" },
 ];
