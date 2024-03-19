@@ -19,7 +19,7 @@ function CookBook() {
       className={styles.swiper}
     >
       {allCookbookImages.map((image) => (
-        <SwiperSlide className={styles.slide}>
+        <SwiperSlide className={styles.slide} key={image.id}>
           <Image src={image.src} alt="" width={500} height={500} />
         </SwiperSlide>
       ))}

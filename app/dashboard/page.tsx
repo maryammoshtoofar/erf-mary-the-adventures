@@ -28,7 +28,7 @@ const Dashboard = (props: Props) => {
                 className={styles.swiper}
               >
                 {cookbookImages.map((image) => (
-                  <SwiperSlide className={styles.slide}>
+                  <SwiperSlide className={styles.slide} key={image.id}>
                     <Image src={image.src} alt="" width={240} height={320} />
                   </SwiperSlide>
                 ))}
