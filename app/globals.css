@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.snap-mandatory {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+.snap-mandatory + div {
+  bottom: -450px;
+}
+
+.group span svg {
+  display: none;
+}
+.group span {
+  background-color: transparent;
+}
+
+
